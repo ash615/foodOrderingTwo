@@ -1,0 +1,46 @@
+.container1{
+    width: 60%;
+    margin: auto;
+    margin-top: 4%;
+}
+.h2{
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.desc{
+    width: 40%;
+    float: left;
+}
+.price{
+    margin-bottom: 0px;
+}
+
+
+.img{
+    width: 40%;
+    height: 15vh;
+    border-radius: 10px;
+    float: right;
+}
+
+.btn{
+    background-color: rgb(192, 49, 31);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.btn:hover{
+    color: white;
+}
+
+.button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:2%;
+    text-decoration: none;
+}
